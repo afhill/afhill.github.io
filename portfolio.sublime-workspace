@@ -1,0 +1,262 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgro",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/_layouts/splash.html",
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/_layouts/default.html",
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/_includes/archive-single.html",
+		"/Users/afhill/c4c/spoon/project-spoon/css/aurora.min.css",
+		"/Users/afhill/c4c/spoon/project-spoon/index.html",
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/_layouts/archive-taxonomy.html",
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/_layouts/single.html",
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/_layouts/archive.html",
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/_layouts/home.html",
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/staticman.yml",
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/_data/ui-text.yml",
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/_data/navigation.yml",
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/_includes/category-list.html",
+		"/Users/afhill/c4c/spoon/project-spoon/css/override.css",
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/_includes/sidebar.html",
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/_includes/post_pagination.html",
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/_includes/breadcrumbs.html",
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/_layouts/collection.html",
+		"/Users/afhill/Downloads/minimal-mistakes-master 3/_layouts/tag.html",
+		"/Users/afhill/Downloads/Passé composé et imparfait.pdf",
+		"/Users/afhill/gothedistance/_pages/about.md",
+		"/Users/afhill/gothedistance/_posts/2006-10-17-target-race.md",
+		"/Users/afhill/gothedistance/Gemfile",
+		"/Users/afhill/gothedistance/_layouts/single.html",
+		"/Users/afhill/gothedistance/Gemfile.lock",
+		"/Users/afhill/GoTheDistance.sublime-workspace",
+		"/Users/afhill/gothedistance/_posts/2018-10-21-wow-number-50-is-around-the-corner.md",
+		"/Users/afhill/gothedistance/_posts/2018-11-03-Masters-Running.md",
+		"/Users/afhill/gothedistance/_posts/2019-08-18-revel-chilliwack-race-report.md",
+		"/Users/afhill/gothedistance/_config.yml",
+		"/Users/afhill/gothedistance/_posts/2005-11-06-77.md",
+		"/Users/afhill/gothedistance/_posts/2009-02-24-i-did-the-hundred.md",
+		"/Users/afhill/gothedistance/_posts/2009-04-23-boston-photo.md",
+		"/Users/afhill/gothedistance/_posts/2009-04-13-even-seth-godin-advocates-speedwork.md",
+		"/Users/afhill/gothedistance/_layouts/posts.html",
+		"/Users/afhill/gothedistance/_posts/2005-08-14-well-im-officially-registered.md",
+		"/Users/afhill/gothedistance/index.html",
+		"/Users/afhill/gothedistance/README.md",
+		"/Users/afhill/gothedistance/posts/index.html",
+		"/Users/afhill/gothedistance/package.json",
+		"/Users/afhill/gothedistance/package-lock.json",
+		"/Users/afhill/gothedistance/LICENSE",
+		"/Users/afhill/gothedistance/jekyll-theme-clean-blog.gemspec",
+		"/Users/afhill/gothedistance/index.md",
+		"/Users/afhill/gothedistance/gulpfile.js",
+		"/Users/afhill/gothedistance/50-states-marathon.html",
+		"/Users/afhill/gothedistance/_config.sublime-workspace",
+		"/Users/afhill/gothedistance/_includes/footer.html",
+		"/Users/afhill/gothedistance/_includes/navbar.html",
+		"/Users/afhill/gothedistance/about.md",
+		"/Users/afhill/gothedistance/404.html",
+		"/Users/afhill/gothedistance/about.html",
+		"/Users/afhill/gothedistance/contact.html",
+		"/Users/afhill/gothedistance/_site/page152/index.html",
+		"/Users/afhill/gothedistance/_includes/featuredbox.html",
+		"/Users/afhill/Downloads/mediumish-theme-jekyll-master/_posts/2018-01-11-quick-start-guide.md",
+		"/Users/afhill/gothedistance/_layouts/page.html",
+		"/Users/afhill/gothedistance/_includes/pagination.html",
+		"/Users/afhill/Downloads/mediumish-theme-jekyll-master/_includes/featuredbox.html",
+		"/Users/afhill/Downloads/mediumish-theme-jekyll-master/_config.yml",
+		"/Users/afhill/gothedistance/_layouts/post.html",
+		"/Users/afhill/Documents/portfolio/chatsoftware.php",
+		"/Users/afhill/Documents/portfolio/replatformia.php",
+		"/Users/afhill/Documents/portfolio/inc/footer.php",
+		"/Users/afhill/Documents/portfolio/about.php",
+		"/Users/afhill/Documents/portfolio/index.php",
+		"/Users/afhill/Documents/portfolio/inc/head.php",
+		"/Users/afhill/Documents/portfolio/domainhtaccess",
+		"/Users/afhill/Documents/portfolio/eventanalytics.php",
+		"/Users/afhill/Documents/portfolio/streamingvideo.php",
+		"/Users/afhill/Documents/portfolio/inc/nav.php",
+		"/Users/afhill/Documents/portfolio/afhill.css",
+		"/Users/afhill/Documents/portfolio/readyrooms.php",
+		"/Users/afhill/Documents/portfolio/nav.php",
+		"/Users/afhill/Documents/portfolio/designsprint.php",
+		"/Users/afhill/Documents/portfolio/timeline.php",
+		"/Users/afhill/Documents/portfolio/template.html",
+		"/Users/afhill/Documents/portfolio/designsprint.html",
+		"/Users/afhill/Documents/portfolio/chatsoftware.html",
+		"/Users/afhill/Documents/portfolio/about.html",
+		"/Users/afhill/Documents/portfolio/index.html",
+		"/Users/afhill/Downloads/products-WB023HT1B/Themes V1_3/Theme 01/index2.html",
+		"/Users/afhill/Documents/Git-Code/martin-test/package.json",
+		"/Users/afhill/Downloads/EvothingsStudio_Mac_64_1.2.0/examples/afh-first/index.html",
+		"/Users/afhill/Documents/Extension/popup.html",
+		"/Users/afhill/Documents/Extension/manifest.json",
+		"/Users/afhill/Downloads/welcome.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"confi",
+				"_config.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
