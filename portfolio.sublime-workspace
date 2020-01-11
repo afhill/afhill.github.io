@@ -11,6 +11,80 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "<!doctype html>\n<html lang=\"en\">\n  <head>\n\n<!-- head -->\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n    \n<link href=\"https://fonts.googleapis.com/css?family=Poppins|Roboto\" rel=\"stylesheet\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css\" integrity=\"sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS\" crossorigin=\"anonymous\">\n    <link rel=\"stylesheet\" href=\"afhill2019.css\" />\n    <link rel=\"stylesheet\" href=\"https://use.fontawesome.com/releases/v5.7.0/css/brands.css\" integrity=\"sha384-BKw0P+CQz9xmby+uplDwp82Py8x1xtYPK3ORn/ZSoe6Dk3ETP59WCDnX+fI1XCKK\" crossorigin=\"anonymous\">\n<link rel=\"stylesheet\" href=\"https://use.fontawesome.com/releases/v5.7.0/css/fontawesome.css\" integrity=\"sha384-4aon80D8rXCGx9ayDt85LbyUHeMWd3UiBaWliBlJ53yzm9hqN21A+o1pqoyK04h+\" crossorigin=\"anonymous\">\n<link rel=\"stylesheet\" href=\"https://use.fontawesome.com/releases/v5.7.1/css/fontawesome.css\" integrity=\"sha384-4aon80D8rXCGx9ayDt85LbyUHeMWd3UiBaWliBlJ53yzm9hqN21A+o1pqoyK04h+\" crossorigin=\"anonymous\">\n\n<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/apple-touch-icon.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/favicon-32x32.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/favicon-16x16.png\">\n<link rel=\"manifest\" href=\"/site.webmanifest\">\n<link rel=\"mask-icon\" href=\"/safari-pinned-tab.svg\" color=\"#5bbad5\">\n<meta name=\"msapplication-TileColor\" content=\"#da532c\">\n<meta name=\"theme-color\" content=\"#ffffff\">\n<!-- end head -->\n\n\n    <title>Andrea Hill: Product Strategist and Service Designer in Ottawa, Canada.</title>\n  </head>\n  <body>\n\n\n\n<!-- nav -->\n<nav class=\"navbar fixed-top  navbar-expand-lg navbar-light bg-light d-flex\">\n  <div>\n    <a class=\"navbar-brand\" href=\"index.html\">Andrea Hill</a>\n    <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n    <span class=\"navbar-toggler-icon\"></span>\n    </button>\n  </div>\n  <div class=\"collapse navbar-collapse justify-content-end\" id=\"navbarSupportedContent\">\n    <ul class=\"navbar-nav \">\n      <li class=\"nav-item dropdown\">\n        <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\n          Projects\n        </a>\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\n          <a class=\"dropdown-item\" href=\"readyrooms.html\">In-Room Conferencing</a>\n          <a class=\"dropdown-item\" href=\"streamingvideo.html\">Live Streaming Video</a>\n          <a class=\"dropdown-item\" href=\"eventanalytics.html\">Event Analytics</a>\n          <a class=\"dropdown-item\" href=\"chatsoftware.html\">Chat Software</a>\n\n\n        </div>\n      </li>\n            <li class=\"nav-item\">\n        <a class=\"nav-link\" href=\"about.html\">About</a>\n      </li>\n            <li class=\"nav-item\">\n         <a class=\"nav-link\" target=\"_blank\" href=\"andreahill-resume-2019.pdf\">Resume</a>\n      </li>\n              <li class=\"nav-item\"><a href=\"http://medium.com/@afhill\" class=\"nav-link\"><i class=\"fab fa-medium\"></i></a></li>\n            <li class=\"nav-item\"><a href=\"http://twitter.com/afhill\" class=\"nav-link\"><i class=\"fab fa-twitter\"></i></a></li>\n            <li class=\"nav-item\"><a href=\"http://www.linkedin.com/in/afhill\" class=\"nav-link\"><i class=\"fab fa-linkedin-in\"></i></a></li>\n            <li class=\"nav-item\"><a href=\"https://www.goodreads.com/afhill262\" class=\"nav-link\"><i class=\"fab fa-goodreads\"></i></a></li>\ns\n\n    </ul>\n  </div>\n</nav>\n<!-- end nav -->\n\n\n <div class=\"jumbotron jumbotron-fluid jumbotron-head \">\n   <div class=\"container \" >\n     <h1 class=\"display-4 text-light text-center text-uppercase\">IN-ROOM CONFERENCING HARDWARE</h1>\n     <p class=\"lead text-light display-5 text-center\">Undertanding the opportunity, and building the business case for, a dramatically different\n     product </p>\n  </div>\n </div>  \n\n\n\n\n\n  <div class=\"container\">\n   \n\n    <div class=\"row\">\n\n      <div class=\"col-12 col-md-3\"><h4>My Role</h4></div>\n      <div class=\"col-md-9\">\n        <p class=\"feature-text\">When ReadyTalk needed customer discovery to de-risk a new product idea, they turned to me.</p>\n         <p>An internal hackathon had lead to a high-level product concept: “turning on your in-room video conferencing platform should be as easy as turning on a TV”. The team had some ideas of what they wanted to build using beacons, but we needed to be sure it met customer needs and could be financially viable. </p>\n         <p>In addition to overseeing early customer validation and determining the MVP, I wrote the initial business case and implementation plan, including procurement and fulfillment. This was to be ReadyTalk's first foray into hardware, so new internal processes needed to be weighed in the investment decision.</p>\n\n     </div>\n    </div> <!-- end row -->\n\n<div class=\"row mt-5\">\n      <div class=\"col-12 col-md-3\"><h4>Approach</h4></div>\n      <div class=\"col-md-9\">\n          <h5>Discovery</h5>\n           <p>With over 10 years in the web conferencing space, we knew some of the pain points associated with conference room technology and starting and joining online meetings. We  supplemented our existing knowledge with market research reports and meetings with analysts. We bought our competitors in-room solutions and set up labs across our offices to get used to them. And we remembered that not everyone is as passionate about conferencing as we are, so we used interviews and surveys to ensure we were honing in the value proposition and vernacular of our potential customers. </p>\n\n           <p>The product team already had well-established user personas for our product, but we needed to dig into understanding a different type of user for this product: the person who would be responsible for setting up and supporting the hardware. We went through an internal exercice developing an empathy map for IT buyers/managers, including bringing in our own Head of IT to speak with us about his values and needs when evaluating solutions. This had a LOT of benefits for the team, not only in designing solutions our customers would be comfortable buying, but just in understanding why IT always seemed to block simple requests! Once we had this initial empathy map, we continued to refer to it through our design and customer feedback sessions, to update or refine as we got more information.</p>\n\n           <img src=\"img/rr-empathymap.png\" class=\"img-fluid\" /> \n\n\n           <p>As well, I did several rounds of client visits, to observe their existing spaces and practices. </p>\n           <p>As expected, the site visits were eye-opening. I visited tiny conference rooms where the meeting organizer would walk in with a borrowed projector and set it up facing a window, and vast open spaces with terrible acoustics. In one location, I was at first intimidated by the expensive professionally installed conferencing equipment, until I was told no one knew how to use it. </p>\n\n            <h5>Design</h5>\n           <p>We recognized early on that we had four key moments to address, and three personas to consider. We kept these in mind as we conducted our research and ideation, to ensure we weren't making unintentional tradeoffs.</p>\n           <img src=\"img/rr-mural.png\" class=\"img-fluid\" /><br />\n\n              <p><strong>The fundamental tension of this project was security versus convenience.</strong></p> \n\n              <p>Was the conference appliance the central to the experience,  or secondary? However we conceived the role of the appliance would impact the rest of the experience.</p> \n\n              <img src=\"img/rr-matrixsketch.png\" class=\"img-fluid\" /><br />\n\n\n            <h5>Testing</h5>\n              <p>In the spirit of getting customer input as soon as we could, the first round of the prototype did not include scheduling. We wanted to be sure that we were on the right track with the experience to join and in-room experience.\n                <p>Turns out, they liked it that way. Our  \"join\" experience won them over in its simplicity, and scheduling may have only complicated the solution and deterred trial. </p>\n                <p>Allowing users to include the appliance in the meeting at the exact time they needed it gave them an immediate reward for their effort. It was contextual, and we could use cues in the meeting room to assist them in doing so. Compare this to scheduling in advance, when users would be expected to anticipate and prepare for something at a different location and time. It sounds silly, but scheduling forces the user to expend effort in advance, well apart from when they'll see the benefits of this. This can decrease trial and usage. </p>\n\n\n<p>In all, we engaged in the following activities during this project:</p>\n\n        <ul>\n            <li>Qualitative interviews</li>\n            <li>Targeted surveys (messaging/value proposition)</li>\n            <li>Site visits with a workable prototype</li>\n            <li>Analyst discussions</li>\n        </ul>\n\n         \n         <blockquote class=\"blockquote display-5\">\n            <p><span class=\"feature-text\">Bringing our prototype right into their space was invaluable. </span><br />\n            It helped us design the product, and it helped the customer imagine a new way to work.</p>\n          </blockquote>\n\n            <hr />\n\n\n\n     </div>\n    </div> <!-- end row -->\n  <div class=\"row\">\n\n    <div class=\"col-12\">\n       <img src=\"img/rr-salessheet.png\" class=\"img-fluid my-4 border border-dark\"  />\n    </div>\n    \n    <div class=\"row\">   \n\n      <div class=\"col-12 col-md-3\"><h4>Highlights</h4></div>\n      <div class=\"col-md-9\">\n        <div class=\" card-columns\">\n\n              <div class=\"card bg-light p-2\">\n                <div class=\"card-body\">\n                  <p class=\"card-text pt-2\">Ease-to-install needed to be balanced with IT buyers’ security concerns</p>\n                </div>\n             </div>\n             \n              <div class=\"card bg-light p-2\">\n                <div class=\"card-body\">\n                  <h5 class=\"card-title  my-2\">Simplicity was Key</h5>\n                  <p class=\"card-text pt-2\">The interaction was solid when we did a demo with a key stakeholder and his response was “that’s it?”! The experience was remarkably simple and elegant</p>\n                </div>\n             </div>\n\n              <div class=\"card bg-light  p-2\">\n                <div class=\"card-body\">\n                  <p class=\"card-text pt-2\">Our target customer was a non-consumer: outfitting a new meeting space rather than trying to displace a more robust system like Cisco, Polycom or Lifesize</p>\n                </div>\n             </div>\n\n\n              <div class=\"card bg-light p-2\">\n                <div class=\"card-body\">\n                  <p class=\"card-text pt-2\">Our MVP features were more minimal than initially expected: peripheral activities like scheduling only complicated the solution and weren’t a requirement</p>\n                </div>\n             </div>\n\n              <div class=\"card bg-light p-2\">\n                <div class=\"card-body\">\n                  <p class=\"card-text pt-2\">The hardware was basically a commodity: we were better served making thin margins on the hardware and focusing on the UX/software</p>\n                </div>\n             </div>\n\n            <div class=\"card bg-secondary p-2\">\n                <div class=\"card-body\">\n                  <p class=\"card-text pt-2\">“Overall, the big selling point for us is the concept of the wireless approach for presentations in the meeting rooms.  We have tried wireless projectors in the past with limited success.  The concept of walking into a room and having everything start up is great, *IF* it can actually all work easily.”</p>\n                  <p class=\"text-muted\">- Senior IT Director</p>\n                </div>\n             </div>\n\n\n\n\n          </div>\n        </div>\n    </div> <!-- end row -->\n\n\n<div class=\"row mt-4\">\n\n      <div class=\"col-12 col-md-3\"><h4>Outcomes</h4></div>\n      <div class=\"col-md-9\">\n        <p class=\"feature-text\">In December 2015 the business case was funded, and FoxDen Connect was launched in <a href=\"https://www.prnewswire.com/news-releases/readytalk-extends-foxden-collaboration-platform-to-workplace-meeting-rooms-300257870.html\">April 2016</a>.</p>\n        <p>Messaging and positioning had already been market tested before a dedicated Engineering team was assigned to the project, dramatically lowering our risk.</p> \n        <p>Our early interviews also identified a lighthouse customer who was requesting pricing and wanted to sign a contract before we had officially green-lit the project.</p>\n        \n        <p>FoxDen Connect served as a differentiator in our space, and opened the door to strategic partnerships that would not have been possible had we not launched a hardware product.</p>\n\n              <iframe width=\"560\" class=\"d-none d-md-inline\" height=\"315\" src=\"https://www.youtube.com/embed/bwZoMt4bvSs\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n\n \n     </div>\n\n    </div> <!-- end row -->\n  </div>\n\n\n<!-- footer -->\n</div>\n    <div class=\"jumbotron jumbotron-fluid py-0 bg-dark \">\n                    <p class=\"p-3 text-light small\" >&copy; <script type=\"text/javascript\">\n  document.write(new Date().getFullYear());\n</script>. All Rights Reserved, Andrea Hill. </p>\n\n        </div>\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n    <script src=\"https://code.jquery.com/jquery-3.3.1.slim.min.js\" integrity=\"sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo\" crossorigin=\"anonymous\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js\" integrity=\"sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut\" crossorigin=\"anonymous\"></script>\n    <script src=\"https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js\" integrity=\"sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k\" crossorigin=\"anonymous\"></script>\n    <!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-2477759-5\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-2477759-5');\n</script>\n<!-- end footer -->\n\n\n  </body>\n</html>\n",
+			"file": "readyrooms.html",
+			"file_size": 14671,
+			"file_write_time": 132225711311776593,
+			"settings":
+			{
+				"buffer_size": 14782,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "eventanalytics.html",
+			"settings":
+			{
+				"buffer_size": 14453,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "streamingvideo.html",
+			"settings":
+			{
+				"buffer_size": 17199,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "timeline.html",
+			"settings":
+			{
+				"buffer_size": 11780,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/afhill/gatsby-running/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+			"settings":
+			{
+				"buffer_size": 2259,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 7149,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 14031,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chatsoftware.html",
+			"settings":
+			{
+				"buffer_size": 11017,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -44,6 +118,7 @@
 	},
 	"expanded_folders":
 	[
+		"/Users/afhill/Documents/portfolio"
 	],
 	"file_history":
 	[
@@ -151,25 +226,269 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"  <a class=\"nav-link\" href=\"https://drive.google.com/file/d/1a0kGWZxixnCwu8ZuZoXFeKYM5DrqGVKR/view?usp=sharing\">Resume</a>",
+			" <title>Andrea Hill: UX and Product Strategist in Ottawa, Canada.</title>"
 		],
-		"highlight": true,
+		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": true,
 		"replace_history":
 		[
+			"goodreads",
+			"  <a class=\"nav-link\" target=\"_blank\" href=\"andreahill-resume-2019.pdf\">Resume</a>",
+			"    <title>Andrea Hill: Product Strategist and Service Designer in Ottawa, Canada.</title>\n"
 		],
 		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
-		"wrap": true
+		"wrap": false
 	},
 	"groups":
 	[
 		{
+			"selected": 4,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "readyrooms.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3747,
+								3747
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "eventanalytics.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "streamingvideo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3751,
+								3751
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "timeline.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8436,
+								8436
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1544.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/afhill/gatsby-running/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								338,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3765,
+								3765
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14031,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3743,
+								3615
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "chatsoftware.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3750,
+								3750
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -212,7 +531,7 @@
 	"project": "portfolio.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 70.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -254,7 +573,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 194.0,
+	"side_bar_width": 301.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
